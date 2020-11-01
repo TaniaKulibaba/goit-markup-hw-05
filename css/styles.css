@@ -121,6 +121,12 @@ img {
   border-radius: 50%;
   cursor: pointer;
 }
+
+.close-svg {
+  width: 18px;
+  height: 18px;
+  fill: #000000;
+}
 /* =============== END COMPONENTS =============== */
 
 /* =============== HEADER =============== */
